@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> hhh
 '''this is simulation'''
 import numpy as np
 
